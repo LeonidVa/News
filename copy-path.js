@@ -1,5 +1,5 @@
 const SITE_ROOT = "../../../../SamplesOutput/Site";
-const EXTENSION_NAME = "Erker.NewsMedia.First";
+const EXTENSION_NAME = "NewsMediaWebClient";
 const MODULES_DIR = SITE_ROOT + "/Content/Modules";
 
 module.exports.STYLES_DIR =  `${MODULES_DIR}/${EXTENSION_NAME}`;
